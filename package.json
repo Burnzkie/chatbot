@@ -1,7 +1,7 @@
 {
-  "name": "my-chatbot",
+  "name": "shad-chatbot",
   "version": "1.0.0",
-  "description": "GroqChat with hidden API key backend",
+  "description": "Shad AI Chatbot with hidden API key backend",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
